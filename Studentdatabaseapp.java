@@ -5,10 +5,7 @@ import java.util.Scanner;
 public class Studentdatabaseapp {
 
 	public static void main(String[] args) {
-		//Student stu = new Student();
-		//stu.enroll();
-	//stu.showInfo();
-	//stu.paytution();
+
 		System.out.println("Enter the number of students to enroll:");
 		Scanner in = new Scanner(System.in);
 		int numofstu = in.nextInt();
